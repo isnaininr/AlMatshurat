@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    style="@style/AppTheme"
+    android:background="@color/backgoundfront">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/headerup"
+            android:text="Keutamaan"
+            />
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="23dp"
+            android:src="@drawable/back"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/btn_back"
+            />
+
+    </RelativeLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:paddingTop="0dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/sub_header"
+                android:text="Macam Keutamaan Memabaca Dzikir"
+                />
+
+            <TextView
+                style="@style/textlatin"
+                android:text="@string/isiKeutamaan"
+
+                 />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
+

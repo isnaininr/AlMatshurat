@@ -1,0 +1,99 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    style="@style/AppTheme"
+    android:background="@color/backgoundfront">
+
+    <LinearLayout
+        style="@style/headerup"
+        android:layout_height="95dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/readingquran"
+            android:layout_gravity="right"/>
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AL MATSURAT"
+            android:textColor="#ffffff"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:id="@+id/header"
+            />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/readingquran"
+            android:layout_gravity="right"/>
+            />
+
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:paddingTop="0dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="165dp"
+                android:layout_gravity="center"
+                android:src="@drawable/quranhadow"
+                android:padding="7dp"
+                android:layout_marginTop="10dp"
+                />
+
+            <Button
+                android:text="Keutamaan"
+                android:id="@+id/buttonKeutamaan"
+                android:layout_gravity="center_vertical"
+                style="@style/buttonfront"
+                android:layout_marginTop="10dp"
+                />
+
+            <Button
+                android:text="Dzikir Pagi"
+                android:id="@+id/buttonDzikirPagi"
+                android:layout_gravity="center_vertical"
+                style="@style/buttonfront"
+                android:layout_marginTop="10dp"
+                />
+
+            <Button
+                android:text="Dzikir Petang"
+                android:id="@+id/buttonDzikirPetang"
+                android:layout_gravity="center_vertical"
+                style="@style/buttonfront"
+                android:layout_marginTop="10dp"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

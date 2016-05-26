@@ -1,0 +1,390 @@
+<resources>
+
+    <string name="app_name">AlMatshurat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dzikir_pagi">DzikirPagi</string>
+    <string name="title_activity_dzikir_petang">DzikirPetang</string>
+    <string name="title_activity_keutamaan">Keutamaan</string>
+
+
+    <string name="isiKeutamaan">
+        &#8226; Mendapat kemudahan dalam menghadapi masalah
+        \n&#8226; Derajad dinaikkan dihadapan Allah
+        \n&#8226; Mendapat pahala
+        \n&#8226; Media pendekatan diri kepada Allah
+        \n&#8226; Menambah pikiran positif
+        \n&#8226; Ketenangan jiwa dan gara
+        \n&#8226; Jalan yang selalu di berkahi
+        \n&#8226; Didekatkan dengan jodoh :)
+    </string>
+
+    <string name="isi">
+            بِسْمِ اللهِ الرَّحْمـَنِ الرَّحِيمِ , الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ, الرَّحْمـنِ الرَّحِيمِ, مَـلِكِ يَوْمِ الدِّينِ, إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ, اهدِنَــــا الصِّرَاطَ المُستَقِيمَ, صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ الضَّالِّينَ
+    </string>
+
+    <string name="isi1">
+    ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ , الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ , وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآَخِرَةِ هُمْ يُوقِنُونَ , أُولَئِكَ عَلَى هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ ,
+    </string>
+
+    <string name="alfatihah">
+        بِسْمِ اللهِ الرَّحْمـَنِ الرَّحِيمِ , الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ, الرَّحْمـنِ الرَّحِيمِ, مَـلِكِ يَوْمِ الدِّينِ, إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ, اهدِنَــــا الصِّرَاطَ المُستَقِيمَ, صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ الضَّالِّينَ
+    </string>
+
+    <string name="albaqarah25">
+ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ, الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ ,وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآَخِرَةِ هُمْ يُوقِنُونَ , أُولَئِكَ عَلَى هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ
+    </string>
+
+    <string name="albaqarah255">
+اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ , لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى لَا انْفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ ,اللَّهُ وَلِيُّ الَّذِينَ آَمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ أُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
+    </string>
+
+    <string name="albaqarah284">
+لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَإِنْ تُبْدُوا مَا فِي أَنْفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُمْ بِهِ اللَّهُ فَيَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ,آَمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ كُلٌّ آَمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ وَقَالُوا سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ,لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِين
+    </string>
+
+    <string name="alimron12">
+بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ, الم, اللهُ لا إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ
+    </string>
+
+    <string name="thaha111">
+        وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا, وَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلا يَخَافُ ظُلْمًا وَلا هَضْمًا
+    </string>
+
+    <string name="attaubah129">
+        حَسْبِيَ اللهُ لا إِلَـهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ (سَبْعًا
+    </string>
+
+    <string name="alkafirun16">
+        بِـــــســْمِ اللهِ الرَّحْــــمنِ الرَّحِـــيْمِ, قُــــــلْ يَــــا أَيُّــــــهَا الْــــكَافِـــــرُونَ, لا أَعْـــــــــبُدُ مَا تَعْبُدُونَ, وَلا أَنتُمْ عَابِدُونَ مَا أَعْـــــبُدُ, وَلا أَنَا عَابِدٌ مَّا عَبَدتُّمْ, وَلا أَنــتـــُمْ عَـــابِدُونَ مَا أَعْبُدُ, لَكُمْ دِينُكُمْ وَلِيَ دِينِ
+    </string>
+
+    <string name="alikhlas">
+بسم الله الرحمن الرحيم , قُلْ هُوَ اللهُ أَحَدٌ , اللهُ الصَّمَدُ , لَمْ يَلِدْ وَلَمْ يُولَدْ , وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
+    </string>
+
+    <string name="alfalaq">
+بسم الله الرحمن الرحيم , قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ , مِن شَرِّ مَا خَلَقَ , وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ , وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ , وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ
+    </string>
+
+    <string name="annas">
+بسم الله الرحمن الرحيم , قُلْ أَعُوذُ بِرَبِّ النَّاسِ , مَلِكِ النَّاسِ , إِلَهِ النَّاسِ , مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ , الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ , مِنَ الْجِنَّةِ وَ النَّاسِ
+    </string>
+
+    <string name="pagi1">
+أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ ِللهِ، وَالْحَمْدُ ِللهِ لاَ شَرِيْكَ لَهُ، لاَ إِلهَ إِلاَّ هُوَ وَإِلَيْهِ النُّشُوْرُ
+    </string>
+
+    <string name="sore1">
+        قال أَمْسَيْنَا وأَمْسَى الْمُلْكُ ِللهِ، وَالْحَمْدُ ِللهِ لاَ شَرِيْكَ لَهُ، لاَ إِلهَ إِلاَّ هُوَ وَإِلَيْهِ الْمَصِيْر
+    </string>
+
+    <string name="dzikir1">
+        َصْبَحْنَا عَلَى فِطْرَةِ اْلإِسْلاَمِ وَعَلَى كَلِمَةِ اْلإِخْلاَصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِيْنَا إِبْرَاهِيْمَ، حَنِيْفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِيْنَ
+    </string>
+
+    <string name="dzikir2">
+        اَللَّهُمَّ مَا أَصْبَحَ بِيْ مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لاَ شَرِيْكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ
+    </string>
+
+    <string name="dzikir3">
+يَا رَبِّ لَكَ الْحَمْدُ كَمَا يَنْبَغِي لِجَلَالِ وَجْهِكَ وَلِعَظِيمِ سُلْطَانِكَ
+    </string>
+
+    <string name="dzikir4">
+    رَضِيتُ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ رَسُولًاإِلَّا كَانَ حَقًّا عَلَى اللَّهِ أَنْ يُرْضِيَهُ
+    </string>
+
+    <string name="tasbih">
+        سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ
+    </string>
+    
+    <string name="doamusibah">
+        بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ
+    </string>
+
+    <string name="doasyirik">
+اللهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ أَنْ نُشْرِكَ بِكَ شَيْئًا نَعْلَمُهُ، وَنَسْتَغْفِرُكَ لِمَا لَا نَعْلَمُ
+    </string>
+
+    <string name="doapkeburukan">
+أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ
+    </string>
+
+    <string name="doakesulitan">
+        اللهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِن الهَمّ وَ الحَزَنْ, وَ العَجْزِ وَ الكَسلْ, وَ البُخْلْ وَ الجُبْنِ,وَ ضَلَعِ الدَينِ, وَ غَلَبَتِ الرِ جَا لْ
+    </string>
+
+    <string name="doakekufuran">
+        اَللّهُمَّ عَافِنِي فِي بَدَنِي, اَللّهُمَّ عَافِنِي فِي سَمْعِي, اَللّهُمَّ عَافِنِي فِي بَصَرِي اَللّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ, وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ, لاَ إِلهَ إِلاَّ أَنْتَ
+    </string>
+
+    <string name="sayyidulistigfar">
+        اَللّهُمَّ أَنْتَ رَبِّي، لاَ إِلهَ إِلاَّ أَنْتَ, خَلَقْتَنِي وَأَنَا عَبْدُكَ, وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أََبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ, وَ أَبُوْءُ بِذَنْبِي، فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ
+    </string>
+
+    <string name="doa">
+        أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ غُفِرَ
+    </string>
+
+    <string name="tasbih2">
+        سُبْحَانَ اللهِ وَبِحَمْدِهِ
+    </string>
+
+    <string name="dzikir5">
+لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ.
+    </string>
+    
+    <string name="doapertolongan">
+يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ، أَصْلِحْ لِيْ شَأْنِيْ كُلَّهُ وَلاَ تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ
+    </string>
+    
+    <string name="doailmu">
+        اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلاً مُتَقَبَّلاً
+    </string>
+
+    <string name="istighfar">
+        أَسْتَغْفِرُ اللهَ وَأَتُوْبُ إِلَيْهِ
+    </string>
+
+    <string name="doahati">
+        يَا مُقَلّبَ القُلُوْبَ , ثَبّتْ قَلْبِي عَلَي دِينِكَ
+    </string>
+
+    <string name="shalawat">
+        اَللّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ, كَمَا صَلَّــيْتَ عَـلَى سَيِّدِنَا إِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَإِبْـرَاهِيْمَ وَعَــلَى آلِ سَيـِّدِنَا إِبْـرَاهِيْمَ فِي الْعَالَمِيْنَ, إِنَّكَ حَمِيْدٌ مَجِيْدٌ (عَشْرًا)
+    </string>
+
+    <string name="artiAlfatihah">
+        Artinya: “Dengan menyebut nama Allah yang Maha Pemurah lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pemurah lagi Maha Penyayang. yang menguasai di hari Pembalasan. hanya Engkaulah yang Kami sembah , dan hanya kepada Engkaulah Kami meminta pertolongan. Tunjukilah Kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat.”
+    </string>
+    <string name="latinAlfatihah">
+        Alhamdulillahirobbil ’alamin(1), Arrohman nirrohim(2), Maliki yaumiddin(3), Iyyakana’ budu waiya kanastangin(4), Ihdinas siroothol mustaqiim(5), Siroothol ladzina an’amta ’alaihim ghoiril maghdubi ’alaihim waladdoolliin(6)
+    </string>
+    <string name="artiAlbaqarah15">
+
+    </string>
+    <string name="latinAlbaqarah15">
+        Alif Lam Mim(1), Dzalikal kitabulla roibafihi hudallilmutaqiin(2), Alladziina yu’minuuna bil ghoibi wa yuqimuunasholata wamimma rojaqnahum yunfiquun(3), walladziina yu’minuuna bimaa unjila ilaika wamaa unjila min qoblika wabil akhirotihum yuuqinuun(4), Ulaaika ’alaa hudammirrobbihim-wa ulaaika humul muflikhuun(5)
+    </string>
+    <string name="artiAlbaqarah255">
+        Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Tiada yang dapat memberi syafaat di sisi Allah tanpa izin-Nya. Allah mengetahui apa-apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar. (256) Tidakada paksaan untuk (memasuki) agama (Islam); sesungguhnya telah jelas jalan yang benar daripada jalan yang sesat. Karena itu barang siapa yang ingkar kepada Thaghut dan beriman kepada Allah, maka sesungguhnya ia telah berpegang kepada buhul tali yang amat kuat yang tidak akan putus.Dan Allah Maha Mendengar lagi Maha Mengetahui. (257) Allah Pelindung orang-orang yang beriman; Dia mengeluarkan mereka dari kegelapan(kekafiran) kepada cahaya (iman). Dan orang-orang yang kafir, pelindung-pelindungnya ialah syaithan, yang mengeluarkan mereka dari cahayakepada kegelapan (kekafiran). Mereka itu adalah penghuni neraka; mereka kekal di dalamnya
+    </string>
+    <string name="latinAlbaqarah255">
+        Allohu laa ilaaha illahuwal khayyul qoyuum-lata’khuduhu sinatuwwala nauum-lahumaa fissamaawati wamaa fil ardhi-mangdzalladzii yasfa’u ’indahu illa bi idnihi-ya’lamu mabaina aidhihim wamaakholfahum walayukhithuuna bisaiin min ‘ilmihi illa bimaasaa-wasi’a kursiyyuhussamaawati wal ardho-wala ya,udhuhu khifthuhumaa wahuwall ’aliyyul ’adhiim.
+
+        7. Laa ikrooha fiddiini qod ttabayyanar rusdu minal ghoyyi-faman yakfur bitthoghuuti wa yu’min billaah fa qodistamsaka bil ‘urwatilwusqoo laa,anfishoma laha-wallohu samiul ‘aliim.
+        Allohu waliyyulladziina aamanuu yuhrijuhum minaddhulumati ilannuur-walladziina kafaruu auliya uhumuthoghuutu yuhrijunahum minannuuri iladhulumaati-ulaaika ashabunnarihum fiihaa kholidhuun
+    </string>
+    <string name="artiAlbaqarah284">
+        Kepunyaan Allah-lah segala apa yang ada di langit dan apa yang ada di bumi. Dan jika kamu melahirkan apa yang ada di dalam hatimu atau kamu menyembunyikannya, niscaya Allah akan membuat perhitungan dengan kamu tentang perbuatanmu itu. Maka Allah mengampuni siapa yang dikehendaki-Nya dan menyiksa siapa yang dikehendaki-Nya; danAllah Maha Kuasa atas segala sesuatu.(285) Rasul telah beriman kepada Al Qur’an yang diturunkan kepadanya dari Tuhannya, demikian pula orang-orang yang beriman. Semuanya beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya dan rasul-rasul-Nya. (Mereka mengatakan): “Kami tidak membeda-bedakan antara seseorang pun (dengan yang lain) dari rasul rasul-Nya”, dan mereka mengatakan: “Kami dengar dan kami taat”. (Mereka berdoa):”Ampunilah kami ya Tuhan kami dan kepada Engkaulahtempat kembali”.(286) Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Ia mendapat pahala (dari kebajikan) yangdiusahakannya dan ia mendapat siksa (dari kejahatan) yang dikerjakannya. (Mereka berdo`a): “Ya Tuhan kami, janganlah Engkau hukum kami jikakami lupa atau kami tersalah. Ya Tuhan kami, janganlah Engkau bebankan kepada kami beban yang berat sebagaimana Engkau bebankan kepada orang-orang yang sebelum kami. Ya Tuhan kami, janganlah Engkau pikulkan kepada kami apa yang tak sanggup kami memikulnya. Beri maaflah kami; ampunilah kami; dan rahmatilah kami. Engkaulah Penolongkami, maka tolonglah kami terhadap kaum yang kafir”
+    </string>
+    <string name="latinAlbaqarah284">
+        Lillahi mafissmaawati wamaa fil ardhi-waa in tubduu maafii anfusikum autuhfuuhu yukhasibkum bihillahu-fayaghfiru liman yasaa,u wayu ‘addibu man yasaa,u- wallohu ‘allaa kulli sai’in qodiir.
+        Amanarrosuulu bimaa unjila ilaihi mirrobbihi wal mu’minuun-kullun amana billahi wa malaaikatihi-wa kutubihi-wa rusulihi-lanufarriku baina akhadim mirrusulihi- waqooluu sami’naa wa atho’naa ghufronaka robbanaa wa ilaikal mashiir.
+        Laa yukallifullohu nafsan illa wus‘ahaa lahaa maakasabat wa ‘alaiha maaktasabat-robbanaa latu aakhidnaa innasiinaa au akhtho’na-robbanaa wala takhmil ‘alainaa israan kama khamaltahu ‘alaaladziina min qoblinaa-robbanaa wala tukhamilnaa maala thoqotalanaa bihi-wa’fu’anna waghfirlanaa war khamna anta maulanaa fansurnaa ‘alall qaumill kaafiriina.
+    </string>
+    <string name="artiAlimrom12">
+        Artinya: Alif laam miim. Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia. yang hidup kekal lagi terus menerus mengurus makhluk-Nya.
+    </string>
+    <string name="latinAlimrom12">
+        alif-laam-miim. allaahu laa ilaaha illaa huwa alhayyu alqayyuumu
+    </string>
+    <string name="artiThaha111">
+        Artinya: “Dan tunduklah semua muka (dengan berendah diri) kepada Tuhan yang Hidup Kekal lagi senantiasa mengurus (makhluknya). Dan sesungguhnya telah merugilah orang-orang yang melakukan kezha-liman, dan barangsiapa mengerjakan amal-amal yang shalih dan ia dalam keadaan beriman, maka ia tidak khawatir akan perlakuan yang tidak adil (terhadapnya) dan tidak (pula) akan pengurangan haknya.”
+    </string>
+    <string name="latinThaha111">
+
+    </string>
+    <string name="artiAttaubah129">
+        Artinya: “Cukuplah Allah bagiku, tiada Tuhan selain Dia. Hanya kepada-Nya aku bertawakal dan Dia adalah Tuhan yang memiliki ‘Arsy yang agung.”
+    </string>
+    <string name="latinAttaubah129">
+
+    </string>
+    <string name="artiAlkafirun">
+        Artinya: “Dengan menyebut asma Allah yang Maha Pemurah lagi Maha Penyayang. “Katakanlah, ‘Hai orang-orang yang kafir, aku tidak akan menyembah apa yang kalian sembah. Dan kalian bukan penyembah Tuhan yang aku sembah. Dan aku tidak akan menjadi penyembah apa yang kamu sembah, dan kamu tidak pernah menjadi penyembah Tuhan yang aku sembah. Untuk kalian agama kalian dan untukku agamaku.’”
+    </string>
+    <string name="latinAlkafirun">
+
+    </string>
+    <string name="artiAlikhlas">
+        Artinya: “Katakanlah: “Dia-lah Allah, yang Maha Esa. Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorangpun yang setara dengan Dia.”
+    </string>
+    <string name="latinAlikhlas">
+        Qul huwallohu ahad(1), Allohusshomad(2), Lam yalid walam yuulad(3), Walam yaqullahu kufuwan ahad(4).
+    </string>
+    <string name="artiAlfalaq">
+        Artinya: “Katakanlah: “Aku berlindung kepada Tuhan yang menguasai subuh, dari kejahatan makhluk-Nya, dan dari kejahatan malam apabila telah gelap gulita, dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul, dan dari kejahatan pendengki bila ia dengki.” (QS. Al Falaq: 1-5)
+    </string>
+    <string name="latinAlfalaq">
+        Qul a’uudzubirobbil falaq(1), Minsarri ma kholaq(2), Waminsarri ghosiqin idza waqob(3), Waminsarrin naffatsati fil ‘uqod(4), Waminsarri khaasidin idza khasad(5)
+    </string>
+    <string name="artiAnnas">
+        Artinya: “Katakanlah: “Aku berlidung kepada Tuhan (yang memelihara dan menguasai) manusia. raja manusia. sembahan manusia. dari kejahatan (bisikan) syaitan yang biasa bersembunyi, yang membisikkan (kejahatan) ke dalam dada manusia, dari (golongan) jin dan manusia. (QS. An Naas: 1-6)
+    </string>
+    <string name="latinAnnas">
+        Qul a’uudzubirobbinnaas(1), Malikinnaas(2), Ilaahinnaas(3), Minsarril waswaasil khonnaas(4), Alladzi yuwaswisu fi shuduurinnaas(5), Minal Jinnati wannaas(6). (QS. An Naas)
+    </string>
+
+    <string name="latinPagi1">
+        Ashbahna wa Ashbahal Mulku Lillahi wal hamdu lillahi Laa Syarika Lahu Laa Ilaha Illa Huwa waIilaihin nusyur
+    </string>
+    <string name="latinSore1">
+        Amsayna wa Amsal Mulku Lillahi wal Hamdu Lillahil Laa Syarika Lahu Laa Ilaha Illa Huwa wa Ilaihil mashir
+    </string>
+
+    <string name="latinDzikir1">
+        “Ashbahna ‘ala Fithrotil Islam wa ‘ala Kalimatil Ikhlash wa ‘ala Dini Nabiyyina Muhammad Shallalahu ‘Alaihi wa Sallam wa ‘ala Millati Abina Ibrahima Hanifa wa Maa Kaana minal Musyrikin.”
+    </string>
+
+    <string name="artidzikir1">
+        Artinya: “Di waktu pagi kami memegang agama Islam, kalimat ikhlas, agama Nabi kita Muhammad shallallahu ‘alaihi wa sallam, dan agama ayah kami Ibrahim, yang berdiri di atas jalan yang lurus, muslim dan tidak tergolong orang-orang musyrik.” Imam Ahmad dalam Musnadnya, No. 15360, 15363, 15364. Syaikh Syu’aib Al Arnauth mengatakan: shahih, sesuai syarat Bukhari-Muslim. (Tahqiq Musnad Ahmad, 24/77). Dan Imam Al Haitsami mengatakan: diriwayatkan oleh Ahmad dan Ath Thabarani, perawi keduanya adalah shahih. Majma’ Az Zawaid, 10/116
+    </string>
+
+    <string name="latindzikir2">
+        “Allahumma maa ashbaha biy min ni’matin aw bi ahadin min khalqika faminka wahdaka laa syarikalak falakalhamdu wa lakasy syukru”
+    </string>
+
+    <string name="artidzikir2">
+        Artinya: “Ya Allah, nikmat yang kuterima atau diterima oleh seseorang di antara makhluk-Mu di pagi ini adalah dari-Mu. Maha Esa Engkau, tiada sekutu bagi-Mu. Bagi-Mu segala puji dan kepada-Mu panjatan syukur (dari seluruh makhluk-Mu).”
+    </string>
+
+    <string name="latindzikir3">
+        “Ya Rabbi Lakal Hamdu Kamaa Yanbaghi Li Jalali Wajhika wa Li ‘Azhimi Sulthanika.”
+    </string>
+
+    <string name="artidzikir3">
+        Artinya: “Ya Tuhanku, Segala puji bagiMu sebagaimana seyogyanya kemuliaan wajahMu dan keagungan kekuasaanMu.”
+    </string>
+
+    <string name="latindzikir4">
+        “Radhiitu billahi Rabba wabil Islami Diina wa bi Muhammadin Rasuula.”
+    </string>
+
+    <string name="artidzikir4">
+        Artinya: “ Aku ridha Allah sebagai Rabb, Islam sebagai agama, dan Muhammad sebagai Rasul.”
+    </string>
+
+    <string name="latintasbih">
+        “Subhanallahi wa bihamdihi ‘adada khalqihi wa ridha nafsihi wazinata ‘arsyihi wa midada kalimatihi.”
+    </string>
+
+    <string name="artitasbih">
+        Artinya: “Maha Suci Allah dan Segala Puji bagiNya, sebanyak bilangan makhlukNya, seridha diriNya, setimbangan ‘arsy-Nya, dan sebanyak tinta dari kata-kataNya.”
+    </string>
+
+    <string name="latindoamusibah">
+        “Bismillahilladzi La Yadhurru Ma’asmihi Syai’un fil Ardhi wa Laa fis Sama’i wa Huwas Sami’ul ‘Alim.”
+    </string>
+
+    <string name="artidoamusibah">
+        Artinya: “Dengan nama Allah Yang bersama NamaNya sesuatu apa pun tidak akan celaka baik di bumi dan di langit. Dialah Maha Medengar lagi maha Mengetahui.”
+    </string>
+
+    <string name="latindoasyirik">
+        “Allahumma inna na’udzubika an nusyrika bika syai’an na’lamuh wa nastagfiruka lima laa na’lamuh.”
+    </string>
+
+    <string name="artidoasyirik">
+        Artinya: “Ya Allah sesungguhnya kami berlindung kepadaMu dari menyekutukanMu dengan sesuatu yang kami ketahui, dan kami memohon ampunanMu dari apa-apa yang tidak kami ketahui.”
+    </string>
+
+    <string name="latindoapkeburukan">
+        “A’udzu bikalimatillahi taammah min syarri maa khalaq.”
+    </string>
+
+    <string name="artidoapkeburukan">
+        Artinya: “Aku berlindung dengan kalimat Allah yang sempurna dari keburukan apa-apa yang Dia ciptakan.”
+    </string>
+
+    <string name="latindoakesulitan">
+        “Allahumma inni a-’udzuubika minal hammi walhazan, wal-’ajzi wal kasal, wal bukhli wal jubni, wa dhola’iddayin, wa gholabatilrrijal“
+    </string>
+
+    <string name="artidoakesulitan">
+        Artinya: “Ya Allah, aku berlindung kepadaMu dari rasa gelisah dan sedih, lemah dan malas, pengecut dan kikir, dibebani hutang (dhala’id dain) dan dikuasai manusia (ghalabatir rijal).”
+    </string>
+
+    <string name="latindoakekufuran">
+        “Allahumma ‘aafini fi badani, Allahumma ‘aafini fi sam’iy, Allahumma ‘aafini fi bashariy.” (3X)“Allahumma inni a’udzubika minal kufri wal faqri, wa a’udzubika min ‘adzabil qabri, laa ilaha illa anta.” (3X)
+    </string>
+
+    <string name="artidoakekufuran">
+        Artinya: “Ya Allah berikanlah kesehatan bagi badanku, bagi pendengaranku, bagi penglihatanku, dan tidak ada Ilah kecuali Engkau”Artinya: “Ya Allah sungguh aku berlindung kepadaMu dari kekufuran dan kefaqiran, Ya Allah sungguh aku berlindung kepadaMu dari azab kubur, tidak ada Ilah kecuali Engkau”Keutamaannya: disebutkan dalam hadits, Dia (Abu Bakrah) menjawab: “Benar, wahai anakku, sesungguhnya aku mendengar Nabi Shallallahu ‘Alaihi wa Sallam berdoa dengan semua itu, maka aku suka jika aku berjalan di atas sunnahnya.”
+    </string>
+
+    <string name="latinsayyidulistigfar">
+        Allahumma anta Rabbiy, laa ilaha illa anta, khalaqtaniy wa ana ‘abduka, wa ana ‘ala ‘ahdika wa wa’dika mastatha’tu, a’udzubika min syarri maa shana’tu, abu’u laka bini’matika ‘alayya, wa abu’u bidzambiy, faghfirliy fa innahu laa yaghfirudz dzunuuba illa anta
+    </string>
+
+     <string name="artisayyidulistigfar">
+        Artinya: “Ya Allah, Engkau Tuhanku, tiada Tuhan kecuali Engkau. Engkau ciptakan aku dan aku adalah hamba-Mu. Aku berada di atas janjiMu, semampuku. Aku berlindung kepadaMu dari keburukan perbuatanku. Aku mengakui banyaknya nikmat (yang Engkau anugerahkan) kepadaku dan aku mengakui dosa-dosaku, maka ampunilah aku. Karena sesungguhnya tiada yang mengampuni dosa-dosa melainkan Engkau.”
+    </string>
+
+    <string name="latindoa">
+        Astaghfirullahal ‘Azhim alladzi laa ilaha illa huwa al hayyu al qayyum wa atuubu ilaihArtinya: “Aku memohon ampunan Allah Yang Tiada Tuhan melainkan Dia, Yang Maha Hidup dan Maha Mengurus (makhluk-Nya).”
+    </string>
+
+    <string name="artidoa">
+        Keutamaannya: “Barang siapa yang berkata: Astaghfirullahal ‘Azhim alladzi laa ilaha illa huwa al hayyu al qayyum wa atuubu ilaih, sebanyak tiga kali, niscaya diampuni dosa-dosanya walaupun dosanya semerbak merata.”
+    </string>
+
+    <string name="latintasbih2">
+        “Subhanallaahi wabihamdih”Artinya: “Maha suci Allah, aku memujiNya.”
+    </string>
+
+    <string name="artitasbih2">
+
+    </string>
+
+    <string name="latindzikir5">
+        “Laa ilaha illallaahu wahdahu laa syariikalahu, lahulmulku wa huwalhamdu wahuwa ‘alaa kulli syay-’in qadiyr”
+    </string>
+
+    <string name="artidzikir5">
+        Artinya: “Tidak ada ilah yang berhak disembah selain Allah semata, tidak ada sekutu bagiNya. BagiNya kerajaan dan segala pujian. Dia-lah yang berkuasa atas segala sesuatu.” (Dibaca 10x atau 1 x jika dalam keadaan malas)
+    </string>
+
+    <string name="latindoapertolongan">
+        “Ya Hayyu Ya Qayyuum, birohmatika astaghiytsu, ashliy sya’niy kullahu, wa laa takilniy ilaa nafsiy thorqota ‘aini“
+    </string>
+
+     <string name="artidoapertolongan">
+        Artinya: “Wahai Rabb Yang Maha Hidup, wahai Rabb Yang Berdiri Sendiri (tidak butuh segala sesuatu), dengan rahmat-Mu aku minta pertolongan, perbaikilah segala urusanku dan jangan diserahkan kepadaku sekali pun sekejap mata (tanpa mendapat pertolongan dari-Mu).”
+    </string>
+
+    <string name="latindoailmu">
+        “Allahumma innii as-aluka ‘ilman nafian, warizqon thayyiban, wa ‘amalan mutaqobala“
+    </string>
+
+    <string name="artidoailmu">
+        Artinya: “Ya Allah, sungguh aku memohon kepada-Mu ilmu yang bermanfaat (bagi diriku dan orang lain, pen), rizki yang halal dan amal yang diterima (di sisi-Mu dan mendapatkan ganjaran yang baik).”
+    </string>
+
+    <string name="latinistighfar">
+        “Astagfirullaah wa atuubu ilayhi“
+    </string>
+
+    <string name="artiistighfar">
+        Artinya: “Aku memohon ampun kepada Allah dan bertobat kepada-Nya.”
+    </string>
+
+    <string name="latindoahati">
+        “Yaa muqollibal qulub tsabbit qolbi ‘ala diinik”
+    </string>
+
+    <string name="artidoahati">
+        Artinya: “Wahai Zat yang membolak-balikkan hati teguhkanlah hatiku di atas agama-Mu.”
+    </string>
+
+    <string name="latinshalawat">
+        “Allahumma shalli ‘ala sayyidina Muhammad wa ‘ala aali Sayyidina Muhammad, kama shallaita ‘ala sayyidina Ibrahim wa ‘ala aali sayyidina Ibrahim, wa baarik ‘ala sayyidina Muhammad wa ‘ala Aali sayyidina Muhammad, kama baarakta ‘ala sayyidina Ibrahim wa ‘ala aali sayyidina Ibrahim il ‘aalamiina innaka hamiidum majiid.”
+    </string>
+
+    <string name="artishalawat">
+
+    </string>
+
+</resources>
